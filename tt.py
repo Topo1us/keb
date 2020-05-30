@@ -139,6 +139,7 @@ def bot():
 hello()
 hello_2()
 prikol()
+bot()
     
 #f=time.sleep(0.2)
 #print(str(l),f,str(o),str(l))
